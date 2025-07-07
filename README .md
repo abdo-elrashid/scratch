@@ -6,3 +6,6 @@ scratch 10 control
 
 scratch 11 looks(1)
 ![image](https://github.com/user-attachments/assets/759174b0-f88a-4295-b2c0-a2d8ff356bde)
+
+scratch 11 looks(2)
+![image](https://github.com/user-attachments/assets/456c0b95-0ca1-47c5-bd7b-523bad026a93)
